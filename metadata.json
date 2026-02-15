@@ -1,0 +1,8 @@
+
+{
+  "name": "Light & Word - Bible Journey",
+  "description": "A complete Bible reading and study app with an annual reading plan, AI-generated insights, and Neon data persistence.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
